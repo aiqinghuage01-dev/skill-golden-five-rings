@@ -1,0 +1,9 @@
+{
+  "name": "黄金五环采集",
+  "version": "2.0.0",
+  "description": "通过访谈帮老板梳理定位、产品和成交逻辑，生成结构化知识库Markdown文档",
+  "author": "清华哥",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code", "cline"],
+  "requirements": {},
+  "entry": "SKILL.md"
+}
