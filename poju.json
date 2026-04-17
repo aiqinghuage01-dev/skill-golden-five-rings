@@ -1,0 +1,23 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 1,
+  "role": "访谈教练",
+  "avatar": {
+    "style": "notionists",
+    "seed": "coach-interview-2026"
+  },
+  "capabilities": [
+    "web_fetch",
+    "web_search",
+    "file_write"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "访谈式梳理老板定位、产品、成交路径"
+}
